@@ -1,3 +1,5 @@
+[ScreenShot](/public/screenshot.png?raw=true "Readables Main Page")
+
 # reactnd-readables
 
 This is a readables application for React Nanodegree program. The application is intended for the learning of Redux with React.
