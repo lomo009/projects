@@ -1,4 +1,4 @@
-![](public/screenshot.png?raw=true "Readables Main Page")
+![](public/Screenshot.png?raw=true "Readables Main Page")
 
 # reactnd-readables
 
