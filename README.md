@@ -1,11 +1,11 @@
 ![](public/Screenshot.png?raw=true "Readables Main Page")
-Main Page
+^^ Main Page ^^
 
 ![](public/screenshot2.png?raw=true "Readables Post Page")
-Post Page
+^^ Post Page ^^
 
 ![](public/Screenshot3.png?raw=true "Readables Comments")
-Comments
+^^ Comments ^^
 # reactnd-readables
 
 This is a readables application for React Nanodegree program. The application is intended for the learning of Redux with React.
